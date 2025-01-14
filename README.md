@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fady Moussa</h1>
 <h3 align="center">A passionate and detail-oriented Full Stack Developer, specializing in the MERN stack, with a strong focus on creating responsive, user-friendly websites and applications. I graduated in 2024 from Florida, United States, with a Bachelor of Applied Science (B.A.S) degree in Computing Technology and Software Development, and I have been on an exciting journey in the software development world ever since.</h3>
 
-- 📫 How to reach me **fmoussa@mail.valenciacollege.edu**
+- 📫 How to reach me **fadymousa21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-fmoussa@mail.valenciacollege.edu
+fadymousa21@gmail.com
 <p align="left">
 </p>
 
